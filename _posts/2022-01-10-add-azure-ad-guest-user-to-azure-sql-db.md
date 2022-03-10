@@ -5,6 +5,7 @@ categories: [Azure, Azure SQL DB, SQL, Azure AD]
 ---
 
 In one of my last projects, we had to add Azure AD Guest Users to an Azure SQL DB hosted in our tenant. Luckily creation of guest users within our tenant was already enabled, Azure Subscription was associated with an Azure Active Directory and therefore we could concentrate on adding such users to our Azure SQL DB (as will this post).
+<!--more-->
 
 ## Enabling Azure AD authentication
 Before you can add an Azure AD user Azure AD authentication has to be enabled on this instance\server of Azure SQL DB. 
