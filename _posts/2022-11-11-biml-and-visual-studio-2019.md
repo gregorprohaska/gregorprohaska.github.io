@@ -18,7 +18,7 @@ But soon I noticed that I could neither add a new BIML file nor generate an SSIS
 
 That was the end of yesterday!
 
-Today, Oliver Blum's answer to this [Stack Overflow question](https://stackoverflow.com/questions/69556582/bimlexpress-and-vs2019-issues) shed some light. After further investigation, I found out that when you download the SSIS Integration via Manage Extension, the latest version is <b>alwaysd</b> downloaded, regardless of whether it is preview or GA. 
+Today, Oliver Blum's answer to this [Stack Overflow question](https://stackoverflow.com/questions/69556582/bimlexpress-and-vs2019-issues) shed some light. After further investigation, I found out that when you download the SSIS Integration via Manage Extension, the latest version is <b>always</b> downloaded, regardless of whether it is preview or GA. 
 
 To get a version other than the latest, you have to manually download it from [visualstudio marketplace](https://marketplace.visualstudio.com/items?itemName=SSIS.SqlServerIntegrationServicesProjects).
 
