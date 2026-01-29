@@ -64,3 +64,4 @@ Whenever I need to get an overview about SQL Object lineage in a Fabric environm
 * I haven't tested this query with schema bound objects, therefore no columns/column names are included. Most probably you will see multiple lines for same referencing/referenced-combination.
 * ObjectTypes are only defined for objects within the database
 * Even though queryinsights objects resides within the same database those objects are not recognized by sys.objects
+* VIEW_TABLE_USAGE and VIEW_COLUMN_USAGE do **not** show objects if they **reference only objects from other databases**. Think about DB1.View1 --> DB1.View2 --> DB2.Table1, no reference to DB1.View2 is shown! (Take a closer look at the screenshots ;-)
