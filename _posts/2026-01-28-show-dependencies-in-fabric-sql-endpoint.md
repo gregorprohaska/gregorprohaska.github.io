@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Viewing object dependencies in Fabric Warehouses and SQL Analytics Endpoints (aka Lakehouses)
+title: Viewing SQL object dependencies in Fabric
 categories: [Fabric Warehouse, Fabric Lakehouse, Fabric SQL Endpoint, SQL, Fabric, SSMS, SQL Analytics Endpoints]
 ---
 
