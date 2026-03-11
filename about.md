@@ -8,7 +8,7 @@ permalink: /about
 I am genuinely curious :-)
 
 ## long version:
-I started my journey in Data & Analytics in 2007 as a consultant for financial planning. One of my first tasks was to create a generic import framework to simplify the data load into our tool! This was the first time I really thought about a data model. Why is it designed as it is, what tried the inventor to achieve, which objects are related (even if there isn't any foreign key defined) and how could we leverage that structure\design to achieve our own goal? I'm deeply grateful to my managers who gave me the space to learn, practice, make mistakes and finally succeed (sometimes ;-) ).
+I started my journey in Data & Analytics in 2007 as a consultant for financial planning. One of my first tasks was to create a generic import framework to simplify the data load into our tool. This was the first time I really thought about a data model. Why is it designed as it is, what tried the inventor to achieve, which objects are related (even if there isn't any foreign key defined) and how could we leverage that structure\design to achieve our own goal? I'm deeply grateful to my managers who gave me the space to learn, practice, make mistakes and finally succeed (sometimes ;-) ).
 
 Fast-forward... today I'm still a consultant and work with some of the same colleagues, but my focus shifted. From financial planning to SSAS Multidimensional to SSAS Tabular and Power BI, all based on "good ol' DWH" architecture principles and solid ETL\ELT-Processes. From Junior Consultant to team leader.
 
